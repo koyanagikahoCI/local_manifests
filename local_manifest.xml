@@ -3,6 +3,7 @@
 
 <remote name="tnf" fetch="https://github.com/topnotchfreaks" />
 <remote name="tapas-playground-gitlab" fetch="https://gitlab.com/Masood-J" />
+<remote name="github" fetch="https://github.com/" />
     
 <!-- Device Sources -->
 <project name="android_device_xiaomi_tapas" path="device/xiaomi/tapas" remote="tnf" revision="16.2-libperfmgr" />
